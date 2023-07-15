@@ -23,10 +23,10 @@ tfoot {
   border: none;
 }
 ol {
-  padding: 25px;
+  padding-left: 25px;
 }
 ul {
-  padding: 25px;
+  padding-left: 25px;
 }
 table {
   padding-left: 3px;
