@@ -22,12 +22,12 @@ tfoot {
   color: white;
   border: none;
 }
-ol {
-  padding-left: 25px;
-}
-ul {
-  padding-left: 25px;
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 25px;
 }
 table {
   padding-left: 3px;
+  width: 60%;
 }
