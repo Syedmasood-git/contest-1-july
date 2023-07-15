@@ -25,11 +25,8 @@ tfoot {
 table{
     border: 1px solid black;
     border-collapse: collapse;
-    padding-left: 25px;
-}
-table {
-  padding-left: 25px;
-  width: 60%;
+    padding-left: 20px;
+    width: 60%;
 }
 ul{
     padding-left: 20px;
